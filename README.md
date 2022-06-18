@@ -1,6 +1,6 @@
 <div>
     <h3 align="center" font-size="24"> Hi there! I'm Abhinav Rawal </h3>
-    <p align="center">A passionate Web/ML developer from India</p>
+    <p align="center">A passionate ML/Web developer from India</p>
 </div>
 
 ---
