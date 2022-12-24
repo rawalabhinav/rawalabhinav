@@ -53,8 +53,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rawalabhinav&show_icons=true&theme=github_dark" width=57.5% alt="Github Stats" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawalabhinav&layout=compact&theme=github_dark&langs_count=8" width=41.5% alt="Github Stats" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=abhinavrawal&layout=compact&theme=github_dark" alt="rawalabhinav"> 
 </div>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=rawalabhinav&theme=react-dark" alt="rawalabhinav" />
+<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rawalabhinav&theme=react-dark" alt="rawalabhinav" /> -->
 
 <!-- Achievements -->
 <h2 align="left">Achievements 🏆</h2>
