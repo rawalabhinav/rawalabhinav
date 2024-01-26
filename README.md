@@ -1,11 +1,11 @@
 <div>
     <h3 align="center" font-size="24"> Hi there! I'm Abhinav Rawal </h3>
-    <p align="center">A passionate full stack developer from India</p>
+    <p align="center">A passionate full stack developer and competitive programmer from India</p>
 </div>
 
 ---
 
-<p align="justify"> I've worked as a full stack developer intern at Directi(Zeta) and GE(Vernova). I'm proficient in both Web and Android development and have worked with a wide range of technologies. </p>
+<p align="justify"> I've worked as a full stack developer intern at Directi(Zeta) and GE(Vernova). I'm proficient in both Web and Android development and have worked with a wide range of technologies.  </p>
 
 <p align ="center">     
     <img width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=rawalabhinav&theme=github-dark-blue" alt="rawalabhinav" />    
